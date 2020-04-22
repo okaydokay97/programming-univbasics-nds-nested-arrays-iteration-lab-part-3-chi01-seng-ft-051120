@@ -15,7 +15,7 @@ while index < src.count do
   index +=1 
 end
 
-string_array
+string_array.join(" ")
 
 
 
