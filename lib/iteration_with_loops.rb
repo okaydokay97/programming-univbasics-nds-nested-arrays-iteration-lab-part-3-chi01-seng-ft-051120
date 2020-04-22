@@ -17,8 +17,4 @@ end
 
 string_array.join(" ")
 
-
-
-
-
 end
